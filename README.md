@@ -2,7 +2,7 @@
 
 This lightweight app offers a simple implementation of an agentic Retrieval-Augmented Generation (RAG) system. It allows you to upload a document and ask questions, routing your query to either a summarization or retrieval engine based on the intent. Built to demonstrate the basics of multi-tool LLM systems using LlamaIndex and Streamlit.
 
-![alt text](<Screenshot 2025-06-07 200859.png>)
+
 
 ---
 
